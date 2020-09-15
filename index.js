@@ -9,5 +9,5 @@ let generalKenobi = () => {
 generalKenobi()
 
 let riker = () => {
-    console.log('riker best captn')
+    console.log('riker worst captn')
 }
