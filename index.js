@@ -11,3 +11,5 @@ generalKenobi()
 let riker = () => {
     console.log('riker worst captn')
 }
+
+let cptPicard
