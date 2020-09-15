@@ -7,3 +7,7 @@ let generalKenobi = () => {
     console.log('General Kenobi!')
 }
 generalKenobi()
+
+let riker = () => {
+    console.log('riker best cptn')
+}
